@@ -16,3 +16,6 @@
   > 支持 JavaScript Python Lua 三种编程语言  
   > 支持编程语言相互调用  
   > 支持Kether对ScriptTask的调用
+  
+
+<iframe src="https://afdian.net/leaflet?slug=takamina" width="640" scrolling="no" height="200" frameborder="0"></iframe>
