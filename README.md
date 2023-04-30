@@ -25,10 +25,10 @@
 ---
 
 ## License
-[LICENSE](https://github.com/SealsTak/Heaven/blob/master/ICENSE.md)
+[LICENSE](https://github.com/SealsTak/Heaven/blob/master/LICENSE.md)
 
 
-前往[爱发电]()获取官方构建插件
+前往[爱发电](https://afdian.net/a/Takamina)获取官方构建插件
 
 [![](https://github.com/SealsTak/Heaven/blob/master/assests/afdian-takamina.png?raw=true)](https://afdian.net/a/Takamina)
 
