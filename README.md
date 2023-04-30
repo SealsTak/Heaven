@@ -4,6 +4,8 @@
 
 ### 适用于Bukkit平台的高自定义度，可编程的副本/小游戏插件
 
+---
+
 ## 特点
 - ### 上手简单
   - 使用Hocon作为配置格式，可读性强，语法宽松不易出错
@@ -19,3 +21,24 @@
   > 支持 JavaScript Python Lua 三种编程语言  
   > 支持编程语言相互调用  
   > 支持Kether对ScriptTask的调用
+
+---
+
+## License
+[LICENSE](https://github.com/SealsTak/Heaven/blob/master/ICENSE.md)
+
+
+前往[爱发电]()获取官方构建插件
+
+[![](https://github.com/SealsTak/Heaven/blob/master/assest/afdian-takamina.png?raw=true)](https://afdian.net/a/Takamina)
+
+Heaven是一个开源付费的插件  
+这意味着即使不付费购买，  
+只要不将该插件分发给**⚠️任何人**，  
+你可以下载源代码并自行构建  
+
+**注意:**  自行构建的插件将不会得到任何帮助支持  
+请不要从其他地方下载拷贝该插件  
+防止你的服务器感染病毒
+
+---
