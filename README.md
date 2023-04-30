@@ -16,3 +16,14 @@
   > 支持 JavaScript Python Lua 三种编程语言  
   > 支持编程语言相互调用  
   > 支持Kether对ScriptTask的调用
+  
+<svg width="320" height="320">
+    <title>Heaven</title>
+    <linearGradient id="grad1" x1="0" y1="10%" x2="0%" y2="90%", gradientUnits= "userSpaceOnUse">
+        <stop offset="0%" style="stop-color:rgb(255,153,177);stop-opacity:1" />
+        <stop offset="100%" style="stop-color:rgb(255,247,153);stop-opacity:1" />
+    </linearGradient>
+    <path d="M80 32 L240 32 L256 96 L64 96 Z" fill="url(#grd1)"/>
+    <path d="M56 128 L264 128 L280 192 L40 192 Z" fill="url(#grd1)"/>
+    <path d="M32 224 L288 224 L304 288 L16 288 Z" fill="url(#grd1)"/>
+</svg>
