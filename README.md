@@ -17,7 +17,7 @@
   > 支持编程语言相互调用  
   > 支持Kether对ScriptTask的调用
   
-<svg width="320" height="320">
+<svg width="320" height="320" xmlns="http://www.w3.org/2000/svg">
     <title>Heaven</title>
     <linearGradient id="grad1" x1="0" y1="10%" x2="0%" y2="90%", gradientUnits= "userSpaceOnUse">
         <stop offset="0%" style="stop-color:rgb(255,153,177);stop-opacity:1" />
