@@ -1,6 +1,6 @@
 # 乾 ☰ Heaven  
 
-![](https://github.com/SealsTak/Heaven/blob/master/assest/heaven.svg?raw=true)  
+![](https://github.com/SealsTak/Heaven/blob/master/assests/heaven.svg?raw=true)  
 
 ### 适用于Bukkit平台的高自定义度，可编程的副本/小游戏插件
 
@@ -30,7 +30,7 @@
 
 前往[爱发电]()获取官方构建插件
 
-[![](https://github.com/SealsTak/Heaven/blob/master/assest/afdian-takamina.png?raw=true)](https://afdian.net/a/Takamina)
+[![](https://github.com/SealsTak/Heaven/blob/master/assests/afdian-takamina.png?raw=true)](https://afdian.net/a/Takamina)
 
 Heaven是一个开源付费的插件  
 这意味着即使不付费购买，  
