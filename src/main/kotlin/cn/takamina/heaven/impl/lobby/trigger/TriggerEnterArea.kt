@@ -29,8 +29,8 @@ class TriggerEnterArea(
                             trigger(
                                 mutableMapOf(
                                     "player" to player.name,
-                                    "area" to areas.indexOf(it),
                                     "world" to (to.world?.name ?: ""),
+                                    "area" to areas.indexOf(it),
                                     "x" to to.x,
                                     "y" to to.y,
                                     "z" to to.z,

@@ -6,6 +6,7 @@ import org.bukkit.Bukkit
 import org.bukkit.entity.Player
 import org.bukkit.event.HandlerList
 import taboolib.platform.BukkitPlugin
+import java.util.LinkedList
 
 class Lobby(val id: String) {
     companion object {
@@ -43,6 +44,11 @@ class Lobby(val id: String) {
         }
     }
 
+    fun getPlayers(): List<Player> {
+        val players = LinkedList<Player>()
+        groups.values.forEach { players.addAll(it.players.values) }
+        return players
+    }
     fun containPlayer(player: Player): Boolean {
         return groups.values.filter { it.players.containsKey(player.name) }.isNotEmpty()
     }
